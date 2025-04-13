@@ -1,0 +1,4 @@
+git clone http://github.com/shadedwarez/BasicScripts /
+mv -R -v /Scripts/Repos/Sources /
+rm -r -v /Scripts/Repos
+rm -r -v /Scripts/./git*

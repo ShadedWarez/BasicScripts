@@ -1,0 +1,11 @@
+apt full-upgrade
+apt autopurge
+apt autoremove
+apt autoclean
+apt clean
+apt update
+apt upgrade
+apt autopurge
+apt autoremove
+apt autoclean
+apt clean

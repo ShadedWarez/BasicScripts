@@ -1,0 +1,4 @@
+apt autopurge
+apt autoremove
+apt autoclean
+apt clean

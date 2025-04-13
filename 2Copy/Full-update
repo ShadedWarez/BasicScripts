@@ -1,0 +1,4 @@
+nano /etc/apt/sources.list
+nano /etc/apt/sources.list.d/*
+apt update --allow-insecure-repositories --allow-unauthenticated
+
